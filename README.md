@@ -12,4 +12,6 @@
  - Here we can check our Favourite Super heroes which we have added to the favourite list and simillarly we can remove from the list.
 # Details page
   - to check the details of particular Super Hero.
+# link to visit
+  - https://ryavee.github.io/SuperHeroHunter.github.io/
   
